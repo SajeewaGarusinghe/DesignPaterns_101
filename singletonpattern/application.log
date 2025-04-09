@@ -1,0 +1,12 @@
+[2025-04-09 11:09:39] [INFO] User created: john_doe
+[2025-04-09 11:09:39] [INFO] Product added: MacBook
+[2025-04-09 11:09:39] [ERROR] Failed to create product: null
+[2025-04-09 11:10:27] [INFO] User created: john_doe
+[2025-04-09 11:10:27] [INFO] Product added: MacBook
+[2025-04-09 11:10:27] [ERROR] Failed to create product: null
+[2025-04-09 11:10:32] [INFO] User created: john_doe
+[2025-04-09 11:10:32] [INFO] Product added: MacBook
+[2025-04-09 11:10:32] [ERROR] Failed to create product: null
+[2025-04-09 11:11:14] [INFO] User created: john_doe
+[2025-04-09 11:11:14] [INFO] Product added: MacBook
+[2025-04-09 11:11:14] [ERROR] Failed to create product: null
